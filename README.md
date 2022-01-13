@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @069narendra
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Coding, Web Development etc.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-069narendra/069narendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
